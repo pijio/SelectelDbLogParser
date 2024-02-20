@@ -1,0 +1,17 @@
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\bin\Debug\net6.0\SelectelDbLogParser.exe
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\bin\Debug\net6.0\SelectelDbLogParser.deps.json
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\bin\Debug\net6.0\SelectelDbLogParser.runtimeconfig.json
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\bin\Debug\net6.0\SelectelDbLogParser.dll
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\bin\Debug\net6.0\SelectelDbLogParser.pdb
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\obj\Debug\net6.0\SelectelDbLogParser.csproj.AssemblyReference.cache
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\obj\Debug\net6.0\SelectelDbLogParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\obj\Debug\net6.0\SelectelDbLogParser.AssemblyInfoInputs.cache
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\obj\Debug\net6.0\SelectelDbLogParser.AssemblyInfo.cs
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\obj\Debug\net6.0\SelectelDbLogParser.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\obj\Debug\net6.0\SelectelDbLogParser.csproj.CopyComplete
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\obj\Debug\net6.0\SelectelDbLogParser.dll
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\obj\Debug\net6.0\refint\SelectelDbLogParser.dll
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\obj\Debug\net6.0\SelectelDbLogParser.pdb
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\obj\Debug\net6.0\SelectelDbLogParser.genruntimeconfig.cache
+C:\Users\Arthur\RiderProjects\SelectelDbLogParser\SelectelDbLogParser\obj\Debug\net6.0\ref\SelectelDbLogParser.dll
